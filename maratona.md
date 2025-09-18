@@ -6,10 +6,10 @@ Esta é a minha seleção de filmes essenciais.
 
 ### Ficção Científica
 - [ ] 2001: Uma Odisseia no Espaço
-- [ ] perdido em marte 
-- [ ] jurassick park
+- [ ] Interestelar
+- [ ] Perdidos em Marte
 
 ### Fantasia
-- [ ] O Senhor dos Anéis: A Sociedade do Anel
-- [ ] loki
+- [ ] Super-Men
+- [ ] Vingadores
 - [ ] thor
