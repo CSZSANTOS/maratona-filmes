@@ -6,10 +6,10 @@ Esta é a minha seleção de filmes essenciais.
 
 ### Ficção Científica
 - [ ] 2001: Uma Odisseia no Espaço
-- [ ] Blade Runner
-- [ ] Matrix
+- [ ] Interestelar
+- [ ] Perdidos em Marte
 
 ### Fantasia
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
-- [ ] A Viagem de Chihiro
-- [ ] O Labirinto do Fauno
+- [ ] Super-Men
+- [ ] Vingadores
