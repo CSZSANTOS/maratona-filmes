@@ -10,6 +10,6 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] Perdidos em Marte
 
 ### Fantasia
-- [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] Super-Men
 - [ ] Vingadores
+- [ ] thor
